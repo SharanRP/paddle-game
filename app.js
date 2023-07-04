@@ -10,10 +10,10 @@ let HIScore = new Audio()
 let hit = new Audio()
 let wall = new Audio()
 
-AIScore.src = "sounds/AIScore.mp3";
-HIScore.src = "sounds/RIScore.mp3";
-wall.src = "sounds/wall.mp3";
-hit.src = "sounds/hit.mp3";
+AIScore.src = "AIScore.mp3";
+HIScore.src = "RIScore.mp3";
+wall.src = "wall.mp3";
+hit.src = "hit.mp3";
 
 const playerpaddleHI =
 {
